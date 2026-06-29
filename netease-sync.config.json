@@ -1,0 +1,17 @@
+{
+  "apiModulePath": "E:\\github.com\\Mineradio\\node_modules\\neteasecloudmusicapi",
+  "cookieFile": "C:\\Users\\Administrator\\AppData\\Roaming\\Mineradio\\.cookie",
+  "sourcePlaylistId": 371024084,
+  "sourcePlaylistName": "我喜欢的音乐",
+  "targetPlaylistId": 18102697793,
+  "targetPlaylistName": "本地歌单",
+  "sourceListFile": "data/netease-liked-songs.txt",
+  "legacyImportReportFile": "data/netease-local-playlist-import-report.txt",
+  "cloudPageSize": 200,
+  "songDetailBatchSize": 200,
+  "addBatchSize": 20,
+  "batchDelayMs": 3000,
+  "singleRetryDelayMs": 4500,
+  "reverseBeforeAdd": true,
+  "reportDir": "reports"
+}

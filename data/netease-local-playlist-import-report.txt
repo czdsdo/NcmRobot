@@ -1,0 +1,785 @@
+用户: o0神之尽头0o
+来源歌单: o0神之尽头0o喜欢的音乐 [371024084]
+目标歌单: 本地歌单 [18102697793]
+执行时间: 2026/6/29 17:18:24
+来源曲目: 767
+云盘曲目: 966
+成功加入: 0
+目标歌单原本已有而跳过: 3
+云盘未匹配: 79
+调用失败: 685
+
+[成功加入]
+
+[已存在而跳过]
+1. 297. 江南 [songId=108914]
+2. 575. Exodus [songId=26115977]
+3. 705. 谢谢你的爱 [songId=112584]
+
+[云盘未匹配]
+1. 2. 粼粼 — 银临 [songId=2754981760]
+2. 4. Pretty Much（半夏心动） — 金色火种GoldenFire [songId=3378350482]
+3. 5. 落了白 — 蒋雪儿Snow.J [songId=2068046512]
+4. 9. 天空之外 — 弦子 [songId=1372762575]
+5. 10. 雾里 — 姚六一 [songId=1815085049]
+6. 11. The Dawn — Dance With The Dead [songId=1456310908]
+7. 13. Mystique — Suleymer [songId=2054608906]
+8. 14. 一个师傅仨徒弟 — 吸引力合唱组 [songId=199768]
+9. 15. The King（Music） — Paperman [songId=2745480944]
+10. 17. Fast and Run — Nico Staf [songId=2113235545]
+11. 18. 怒 Nu — 拼音师 / DJ刚仔 [songId=2704567388]
+12. 23. Once Upon A Time (House Mix) — Max Oazo / Moonessa [songId=2114626833]
+13. 24. 半点心 — 草蜢 [songId=349981]
+14. 29. The Phoenix — Fall Out Boy [songId=26199445]
+15. 30. MONEY IN MY POCKET — 808Monster [songId=2067126532]
+16. 32. Love Story — Taylor Swift [songId=19292984]
+17. 36. CLOUD — Dxrk ダーク [songId=1876023432]
+18. 38. 唯一 — G.E.M.邓紫棋 [songId=2083785152]
+19. 39. 大地 (国语版) — Beyond [songId=347675]
+20. 40. 沈园外 — 阿YueYue / 戾格 / 小田音乐社 [songId=1808078153]
+21. 41. 山海皆可平 — 沈楠 [songId=2083785401]
+22. 42. 最爱 — 周慧敏 [songId=25920721]
+23. 43. 唯一 — 告五人 [songId=1807799505]
+24. 44. 词不达意 — 林忆莲 [songId=255858]
+25. 46. 诛仙我回来 — 任贤齐 [songId=144079]
+26. 47. 归零 — 魔鬼花园（李安健） [songId=2000845246]
+27. 48. 精卫琵琶版 — Jakub狗子哥 [songId=2007733647]
+28. 49. 鳥の詩 — Lia [songId=28151022]
+29. 50. One Last Kiss — 宇多田ヒカル [songId=1824020871]
+30. 51. 蜀绣 — 李宇春 [songId=30621618]
+31. 53. Things You Said — Cody Fry / Abby Cates [songId=2065868022]
+32. 54. 凑热闹 — By2 [songId=344403]
+33. 57. Wake (Deep Slowed) — ZsFlovexl [songId=2609962190]
+34. 58. La gloire à mes genoux — Côme [songId=428649319]
+35. 59. GigaChad Theme (Phonk House Version) — g3ox_em [songId=1974460387]
+36. 60. Rosy — PUUSUN [songId=2604301718]
+37. 61. As Long as You Love Me — Backstreet Boys [songId=16835303]
+38. 62. 偷心 — 张学友 [songId=190233]
+39. 63. 男儿当自强 — 成龙 [songId=64800]
+40. 64. 唢风吟 — 李化禹 [songId=1947126587]
+41. 66. 国风硬曲 — 依邦妮 [songId=2609174600]
+42. 67. GoneBad(PHONK) — GTR7 / SENKEI [songId=2164852326]
+43. 69. 浮光 — 周深 [songId=2112196350]
+44. 71. 手放开 — 李圣杰 [songId=114600]
+45. 84. 玄鸟 — 萨吉 [songId=2137389562]
+46. 97. Sea Of Problems — Glichery [songId=2025457557]
+47. 102. 字字句句 (Live版) — 张碧晨 / 王赫野 [songId=2046990697]
+48. 103. 冬天的秘密 — 周传雄 [songId=189545]
+49. 104. 笼 — 张碧晨 [songId=2057534370]
+50. 117. Rock Solid — Yuriy Melnik [songId=1840459016]
+51. 118. Move Your Body (RAIZHELL Remix) — Öwnboss / SEVEK / RAIZHELL [songId=1969098089]
+52. 119. 风吹麦浪 (Live) — 李健 / 孙俪 [songId=25714332]
+53. 120. 想你的365天 — 李玟 [songId=106368]
+54. 121. 在你的身边 — 盛哲 [songId=475479888]
+55. 123. Daylight — Seredris [songId=1372188635]
+56. 128. The Mass — Era [songId=17538867]
+57. 129. My Sunshine — 张杰 [songId=34179910]
+58. 135. RAVE — Dxrk ダーク [songId=1924995800]
+59. 143. 你的承诺 — 海鸣威 [songId=95379]
+60. 146. Eifersucht — Rammstein [songId=4263218]
+61. 148. 遗失的心跳 — 萧亚轩 [songId=306877]
+62. 172. 孤勇者 — 陈奕迅 [songId=1901371647]
+63. 192. 寂寞边界 — 张栋梁 [songId=191751]
+64. 195. 知足 — 五月天 [songId=385965]
+65. 199. 霜降 — 音阙诗听 / 赵方婧 [songId=1318877229]
+66. 229. こんなにも — Dream [songId=29953737]
+67. 232. Shivers (feat. Jessi & SUNMI) — Ed Sheeran / Jessi / 宣美 [songId=1897411863]
+68. 240. 失眠飞行 — 接个吻，开一枪 / 沈以诚 / 薛明媛 [songId=1365898499]
+69. 241. 彼女は旅に出る — 鎖那 [songId=509106775]
+70. 286. My Heart Will Go On (Love Theme from "Titanic") — Céline Dion [songId=2308499]
+71. 344. Right Here Waiting — Richard Marx [songId=5223439]
+72. 384. Everybody (Backstreet's Back) — Backstreet Boys [songId=16835302]
+73. 407. DEJA VU (EXTENDED MIX) — Dave Rodgers [songId=1364973839]
+74. 470. 完美世界 [主题版] — 水木年华 [songId=26147216]
+75. 506. 亲爱的你怎么不在身边 — 江美琪 [songId=247536]
+76. 556. God Is a Girl (Album Version) — Groove Coverage [songId=18098592]
+77. 560. 克己の刻 — 椎名豪 [songId=411350005]
+78. 673. 生命樹 — 吴雨霏 [songId=25702173]
+79. 719. 大悲咒 — 邝美云 [songId=253165]
+
+[调用失败]
+1. 1. 艾尔文防线 - forest town [songId=37240590] 
+2. 3. Only U [songId=3364306023] 
+3. 6. 불꽃 [songId=22845457] 
+4. 7. 云楼烟霭月斜白 The Hazy Moon [songId=3348141937] 
+5. 8. 窒 Suffocating [songId=2105316376] 
+6. 12. 爱到春潮滚滚来 [songId=84010] 
+7. 16. 无情画 [songId=1311347661] 
+8. 19. 若梦 [songId=1964566531] 
+9. 20. 沧海飞尘 [songId=2094118217] 
+10. 21. 相见恨晚 [songId=280761] 
+11. 22. 回梦游仙 [songId=28786838] 
+12. 25. 野外首领_望月婵媛 [songId=2705300804] 
+13. 26. Wasteland (Reboot Type A) [songId=2631210315] 
+14. 27. 西游记 [songId=555985334] 
+15. 28. Brotherhood [songId=1474062258] 
+16. 31. 黄昏 [songId=406730276] 
+17. 33. 难念的经 [songId=5271858] 
+18. 34. 假如爱有天意 [songId=2052332422] 
+19. 35. 六月的雨 [songId=2703000441] 
+20. 37. 青玉案（唱：云の泣 词：小鱼萝莉） [songId=26902780] 
+21. 45. 孙尚香 [songId=272730] 
+22. 52. NUMB [songId=2041609211] 
+23. 55. 认真的雪 [songId=169185] 
+24. 56. 爱就一个字 [songId=106370] 
+25. 65. 威风堂堂 [songId=2018957421] 
+26. 68. 山海入梦来 [songId=1870225884] 
+27. 70. 我欲成仙 [songId=145982] 
+28. 72. 心爱 [songId=166317] 
+29. 73. 【三无x小缘】剑与雪 [songId=2162069734] 
+30. 74. 剑与雪 [songId=2132254914] 
+31. 75. Morsmordre [songId=1441860073] 
+32. 76. 烟雨唱扬州 [songId=34986705] 
+33. 77. 華の乱 [songId=4881802] 
+34. 78. Lifeline [songId=38019092] 
+35. 79. Falling U [songId=22704470] 
+36. 80. 风居住的街道 [songId=29539350] 
+37. 81. 멈춰줘 [songId=2153146938] 
+38. 82. 미안해 미워해 사랑해 [songId=2153146939] 
+39. 83. 洛兰(旧) - forest01 old [songId=37239612] 
+40. 85. Fallin' [songId=2141185725] 
+41. 86. 成败 [songId=2062929196] 
+42. 87. Infinity Tik Tok (Remix) [songId=1903712228] 
+43. 88. 七月七日晴 [songId=307825] 
+44. 89. 情深深雨濛濛 [songId=2085115255] 
+45. 90. Like A Ricochet纯 [songId=2003164088] 
+46. 91. Fainted [songId=2070899700] 
+47. 92. 美人吟 [songId=261721] 
+48. 93. 痴心绝对 [songId=114263] 
+49. 94. 千年之恋 [songId=354500] 
+50. 95. 心如刀割 [songId=1900166514] 
+51. 96. 言不由衷 [songId=2079364024] 
+52. 98. 《仙剑奇侠传六》-主题曲-《镜中人》 [songId=33190377] 
+53. 99. 流光记 [songId=1314438112] 
+54. 100. 向天再借五百年 [songId=93666] 
+55. 101. Fatum Plebis [songId=1461555] 
+56. 105. 怎样 [songId=2083778487] 
+57. 106. 人间惊鸿客 [songId=1950323284] 
+58. 107. 悬溺 [songId=2079622102] 
+59. 108. 量身订做 [songId=191195] 
+60. 109. 月亮之上(交响乐版) [songId=29750120] 
+61. 110. 故里逢春 [songId=1457113272] 
+62. 111. 悬溺 [songId=1397345903] 
+63. 112. 你好毒 [songId=188660] 
+64. 113. 特斯河之赞 [songId=28059686] 
+65. 114. 兰亭序 [songId=2069963048] 
+66. 115. Night Crusing (But Slowed) (prod 牛尾憲輔) [songId=1937226721] 
+67. 116. m new begin [songId=2067440223] 
+68. 122. 溯 (Reverse) [songId=1294951288] 
+69. 124. Letting go [songId=2055245985] 
+70. 125. 莫斯科没有眼泪 [songId=469065053] 
+71. 126. 盗将行 [songId=574566207] 
+72. 127. 叹云兮 [songId=1304662143] 
+73. 130. 白色恋人 [songId=176339] 
+74. 131. 爱我的人和我爱的人 [songId=176210] 
+75. 132. 东风第一枝 [songId=547971220] 
+76. 133. 千里之外 [songId=541102386] 
+77. 134. 兰亭序 [songId=1974403336] 
+78. 136. 是你 [songId=1966162185] 
+79. 137. 惊涛落日（Official Vers.） [songId=1433075058] 
+80. 138. 谢谢你的爱1999 [songId=2031847793] 
+81. 139. 星月落 [songId=1980103417] 
+82. 140. 情人 [songId=543965429] 
+83. 141. Faster(Instrumental) [songId=1816033162] 
+84. 142. Children of the Dark (2021) [songId=1871035439] 
+85. 144. 北极星的眼泪 [songId=4874556] 
+86. 145. if [songId=625623] 
+87. 147. 带我去找夜生活 [songId=1410647903] 
+88. 149. 爱人错过 [songId=1368754688] 
+89. 150. Hero’s Come Back!! [songId=27668237] 
+90. 151. Biscaine - Sunrise At Paradise Beach (Original Mix) [songId=1999736] 
+91. 152. Paradise (What About Us) [songId=416552012] 
+92. 153. 让她降落 [songId=145877] 
+93. 154. 22_银临 - 何须问（翻自 电影《白蛇.缘起》原声带） [songId=1853031703] 
+94. 155. 因为爱所以爱 [songId=410519626] 
+95. 156. 魂 [songId=167741] 
+96. 157. 爱的供养 [songId=34179921] 
+97. 158. 江南 [songId=108914] 
+98. 159. 他不懂 [songId=28059417] 
+99. 160. 问风 [songId=1928196209] 
+100. 161. 爱的回归线 [songId=25639007] 
+101. 162. 笑红尘 [songId=210801] 
+102. 163. Smooth Criminal (Michael Jackson) [songId=1220376] 
+103. 164. 难以启齿的柔弱 [songId=25657444] 
+104. 165. 苍浪剑赋 [songId=28786842] 
+105. 166. 好久不见 [songId=29999156] 
+106. 167. 好想好想 [songId=87111] 
+107. 168. 폭풍속으로 (feat. 에스더) [songId=5337313] 
+108. 169. 痴情冢 [songId=28191136] 
+109. 170. 我好像在哪见过你 [songId=417859631] 
+110. 171. She Is My Sin [songId=1951671796] 
+111. 173. 骁 [songId=1965306898] 
+112. 174. Autumn （秋） [songId=522041157] 
+113. 175. The New York Nightfall [songId=5137275] 
+114. 176. 山鬼（Cover：Winky诗） [songId=1955424180] 
+115. 177. 潮汐（翻自 傅梦彤） [songId=1803990501] 
+116. 178. 我的意中人 [songId=1339026629] 
+117. 179. 你就不要想起我 (Live) [songId=442867827] 
+118. 180. 明天你好 [songId=33756016] 
+119. 181. 致你 [songId=1867217766] 
+120. 182. 舞娘 [songId=406346130] 
+121. 183. 莫问归期 [songId=1454897840] 
+122. 184. 花的嫁纱 [songId=4875961] 
+123. 185. Håll Om Mig [songId=28224395] 
+124. 186. 时候 [songId=1331711880] 
+125. 187. 와 [songId=25645594] 
+126. 188. 你是我的眼 [songId=350616] 
+127. 189. 萤火 [songId=436355188] 
+128. 190. 零 [songId=812432] 
+129. 191. Touch [songId=534228257] 
+130. 193. 爱殇 (电视剧《东宫》插曲) [songId=28315295] 
+131. 194. 带我走 [songId=22740074] 
+132. 196. 涉川 [songId=482933652] 
+133. 197. 感情线 [songId=4874887] 
+134. 198. 黄昏 [songId=2734013027] 
+135. 200. 当你 [songId=1897828830] 
+136. 201. 樱花草 [songId=376971] 
+137. 202. 战曲 Battle Epic Song [songId=552433256] 
+138. 203. 风缘 [songId=539603870] 
+139. 204. You will remember (Instrumental) [songId=441491838] 
+140. 205. Score [songId=2637850] 
+141. 206. Time after time ～花舞う街で～ [songId=1415409067] 
+142. 207. 花雨落 [songId=1361789569] 
+143. 208. ワ-Come On- [songId=26115382] 
+144. 209. 神女劈观·唤情 Devastation and Redemption [songId=1910911958] 
+145. 210. 会呼吸的痛 [songId=5248643] 
+146. 211. 燕尾蝶 [songId=5237858] 
+147. 212. 光亮 [songId=1892532629] 
+148. 213. 国色天香•对唱版 [songId=400690114] 
+149. 214. 万疆 [songId=1840861309] 
+150. 215. 赤伶 [songId=1454730043] 
+151. 216. 随风而逝 [songId=28949262] 
+152. 217. Para Para 樱之花 [songId=1430312672] 
+153. 218. 宙へ(そらへ) [songId=444599] 
+154. 219. インドア系ならトラックメイカー [songId=424262056] 
+155. 220. 假如爱有天意 (Live) [songId=31877467] 
+156. 221. 锦鲤抄 [songId=28188434] 
+157. 222. 100 [songId=1325896860] 
+158. 223. aLIEz [songId=34478647] 
+159. 224. Escapist [songId=21312007] 
+160. 225. 曾经最美 [songId=4876565] 
+161. 226. 心墙 [songId=27671269] 
+162. 227. 圈住你 [songId=1372552573] 
+163. 228. 玄音妙境 [songId=1463425180] 
+164. 230. 阿刁 (Live) [songId=531786028] 
+165. 231. 让风告诉你 [songId=1818031620] 
+166. 233. 花与剑 [songId=4875308] 
+167. 234. 逍遥叹 [songId=4875306] 
+168. 235. 终于明白 [songId=4875305] 
+169. 236. 此生不换 [songId=25638340] 
+170. 237. 生生世世爱 [songId=86357] 
+171. 238. 忘记时间 [songId=86360] 
+172. 239. 御剑江湖(加长版) [songId=25873217] 
+173. 242. Ce Frumoasa E Iubirea [songId=2698075] 
+174. 243. らぶこーる [songId=1897867583] 
+175. 244. My Soul [songId=5308028] 
+176. 245. 정신이 나갔었나봐 (대웅 Theme) [songId=5399786] 
+177. 246. theme of SSS [songId=471799] 
+178. 247. With an Orchid [songId=20744788] 
+179. 248. 恋に恋して [songId=29722004] 
+180. 249. Oblivion [songId=4010720] 
+181. 250. Silver Lining [songId=33255957] 
+182. 251. Northern lights [songId=22689441] 
+183. 252. Tassel [songId=357126] 
+184. 253. 战争世界 [songId=1496195738] 
+185. 254. My Songs Know What You Did In The Dark (Light Em Up) (Album Version) [songId=28071648] 
+186. 255. 思慕 [songId=454053802] 
+187. 256. 把心交出来 [songId=126430] 
+188. 257. Sky Mirrors [songId=492292805] 
+189. 258. 流星蝴蝶剑背景音乐 [songId=27896335] 
+190. 259. Shot in the Dark [songId=20715547] 
+191. 260. 乱舞苍穹——天之痕女声独唱版 [songId=297113] 
+192. 261. 忘与忘川 [songId=1339026633] 
+193. 262. 镇魂调 [songId=203915] 
+194. 263. Legends Never Die（唢呐版） [songId=1875055291] 
+195. 264. Take Me To Your Heart [songId=29592078] 
+196. 265. Stray [songId=30394495] 
+197. 266. 王妃 [songId=400161259] 
+198. 267. Moonlight Shadow [songId=29592187] 
+199. 268. 爱转角 [songId=110030] 
+200. 269. 恶作剧 [songId=4875084] 
+201. 270. 再见（good bye） [songId=36024806] 
+202. 271. 倒数 [songId=1299550532] 
+203. 272. 泡沫 [songId=26113988] 
+204. 273. 光年之外 [songId=449818741] 
+205. 274. 句号 [songId=1405283464] 
+206. 275. 从头再来 [songId=165676] code=405
+207. 276. 婴儿 [songId=214307] 
+208. 277. 双人舞 [songId=139547] 
+209. 278. 听海 [songId=25657148] code=405
+210. 279. 红豆 [songId=298986] code=405
+211. 280. 隐形的翅膀 [songId=1480378519] 
+212. 281. 第一次爱的人 [songId=1480380030] code=405
+213. 282. 我会好好的 [songId=297726] code=405
+214. 283. 痛彻心扉 [songId=191728] 
+215. 284. 当你孤单你会想起谁 [songId=5239011] code=405
+216. 285. 至少还有你 [songId=544151100] 
+217. 287. 外滩十八号 [songId=369126] code=405
+218. 288. Salt [songId=1408601555] code=405
+219. 289. Outside [songId=1463305970] code=405
+220. 290. A New Day Has Come [songId=5088479] code=405
+221. 291. 放开 [songId=343031] code=405
+222. 292. 你的第一 [songId=97219] 
+223. 293. unlasting [songId=1414892393] 
+224. 294. Matsuri [songId=29281450] code=405
+225. 295. 第一次 [songId=4875700] 
+226. 296. 宁夏 [songId=254083] code=405
+227. 298. voice [songId=4997228] code=405
+228. 299. Summertime Sadness [songId=26222403] code=405
+229. 300. That Girl [songId=1450149593] 
+230. 301. 缘尽世间 [songId=33756650] code=405
+231. 302. 孽海记 [songId=1370879975] code=405
+232. 303. 猴哥 [songId=199766] 
+233. 304. 対峙 [songId=532004] code=405
+234. 305. 鹤形 [songId=169086] code=405
+235. 306. 红色石头 [songId=364512] 
+236. 307. 冯虚御风 [songId=1385635545] code=405
+237. 308. 兰陵王入阵曲 [songId=1436727001] code=405
+238. 309. Be My Babe [songId=27623202] code=405
+239. 310. 为你铭刻 [songId=1858166162] code=405
+240. 311. Born a Champion [songId=32785401] code=405
+241. 312. 风云之歌 [songId=201883] code=405
+242. 313. Memories [songId=20715576] code=405
+243. 314. 流星蝴蝶剑结尾纯音乐 [songId=30903752] 
+244. 315. Dearest [songId=22737630] code=405
+245. 316. 中国人 [songId=110255] code=405
+246. 317. You're Gonna Be [songId=22758834] 
+247. 318. 杨花落尽子规啼 [songId=1375935067] code=405
+248. 319. Lovers [songId=1821597702] 
+249. 320. Nemo [songId=5188060] code=405
+250. 321. 就让你走 [songId=425008220] code=405
+251. 322. Beyond The Game [songId=27867802] 
+252. 323. 将军令 [songId=156210] 
+253. 324. Intro [songId=4017240] code=405
+254. 325. Beyond Limits [songId=28055132] code=405
+255. 326. Into The Sun [songId=37095739] code=405
+256. 327. 呼唤 [songId=294432] 
+257. 328. 希望 [songId=213358] 
+258. 329. Eutopia [songId=29129889] code=405
+259. 330. 约定 [songId=5251328] 
+260. 331. 童话 [songId=543798373] code=405
+261. 332. 月满西楼 [songId=5280196] code=405
+262. 333. 爱江山更爱美人 [songId=4878601] 
+263. 334. 寓言 [songId=5257468] code=405
+264. 335. 欧若拉 [songId=5239884] code=405
+265. 336. 淋雨一直走 [songId=25640392] code=405
+266. 337. おやすみ [songId=731783] 
+267. 338. Speedy Speed Boy [songId=22758978] 
+268. 339. 天下 [songId=27588748] 
+269. 340. 空空如也 [songId=526464293] code=405
+270. 341. 爱的供养 [songId=393335] code=405
+271. 342. 一吻天荒 [songId=391566] code=405
+272. 343. Verdict for worst dictator [songId=35779201] code=405
+273. 345. Grace [songId=528423473] code=405
+274. 346. 酒中仙 [songId=1414044473] code=405
+275. 347. 紫藤花 [songId=375308] code=405
+276. 348. 暧昧 [songId=1301732869] code=405
+277. 349. Shots (Broiler Remix) [songId=1835503887] 
+278. 350. 剑魂（Cover 李炜） [songId=508301962] code=405
+279. 351. 大浪淘沙 [songId=437755663] 
+280. 352. 凡人 [songId=1465290469] 
+281. 353. 一直在找一个人 [songId=230000] 
+282. 354. 十世镜《远嫁》 [songId=26379275] 
+283. 355. 黄种人 [songId=5258327] 
+284. 356. Brave Shine [songId=33418858] code=405
+285. 357. Call of Silence x YouSeeBIGGIRL [songId=496507504] code=405
+286. 358. 但愿人长久 [songId=409872655] code=405
+287. 359. 玉女心经 [songId=29122715] 
+288. 360. 一直很安静 [songId=4875309] code=405
+289. 361. 左边 [songId=523008547] code=405
+290. 362. 千年泪 [songId=4874863] 
+291. 363. Right Now (Na Na Na) [songId=1851590333] code=405
+292. 364. 浮光 (The History) [songId=1394601255] 
+293. 365. 仰望星空 [songId=191268] code=405
+294. 366. 明天过后 [songId=27588734] 
+295. 367. 少年情 [songId=203789] code=405
+296. 368. Vater Unser [songId=2534965] code=405
+297. 369. 一滴泪 [songId=31191020] 
+298. 370. 穿越人海 [songId=27588741] code=405
+299. 371. 百年身（剧情版）原曲：まきちゃんぐ烟 [songId=36117023] 
+300. 372. Dangerous [songId=21177662] code=405
+301. 373. 高潔なる教皇 [songId=30482372] code=405
+302. 374. China·少侠·隐怀 [songId=453114638] code=405
+303. 375. Mad World [songId=1343445130] code=405
+304. 376. DJ - 日文头文字DInitial D-D Non-Stop Mega串烧舞曲 [songId=41199487] code=405
+305. 377. 月色与雪色之间，你是第三种绝色。 [songId=535612106] code=405
+306. 378. 红颜 [songId=92979] code=405
+307. 379. 月光 [songId=419594752] 
+308. 380. 下个, 路口, 见 [songId=254285] code=405
+309. 381. 巨大要塞、発進!! [songId=529678] code=405
+310. 382. Destiny [songId=657445] code=405
+311. 383. Yasuo（亚索）面对疾风吧！ [songId=502678329] code=405
+312. 385. Moonlight~Farewell [songId=817589] code=405
+313. 386. 浪花 [songId=33035512] 
+314. 387. Boulevard Of Broken Dreams [songId=26423117] code=405
+315. 388. Cyberangel [songId=1375725396] code=405
+316. 389. 单飞 [songId=244959] code=405
+317. 390. 梦的光点 [songId=297791] code=405
+318. 391. 角都 [songId=530408] code=405
+319. 392. 緋文字 [songId=530459] code=405
+320. 393. 峨眉山 [songId=174524] code=405
+321. 394. 记事本 [songId=190062] 
+322. 395. 国风登陆 [songId=28481969] code=405
+323. 396. 空心 [songId=435288399] 
+324. 397. 冷酷到底 [songId=5269098] code=405
+325. 398. 战斗-通往胜利 [songId=32737993] code=405
+326. 399. DEJA VU [songId=1389811715] 
+327. 400. 破茧 [songId=1450709807] code=405
+328. 401. 少年 [songId=1438116717] code=405
+329. 402. 只要有你 [songId=4878242] code=405
+330. 403. 轮回 [songId=25873214] code=405
+331. 404. 寂寞沙洲冷 [songId=189688] code=405
+332. 405. 暖风 [songId=200437] 
+333. 406. 花太香 [songId=543965367] code=405
+334. 408. 横竖撇点折(泠鸢） [songId=1419023911] 
+335. 409. 迷仙引 [songId=203741] code=405
+336. 410. A Champion Approaches (DraftMode) [songId=28138617] 
+337. 411. MADARA vs NARUTO [songId=529181] code=405
+338. 412. 心愿 [songId=203787] code=405
+339. 413. 处处傻 [songId=1434760048] code=405
+340. 414. Pneumatic Tokyo [songId=33937527] 
+341. 415. 梦太晚 [songId=28643048] code=405
+342. 416. 千年の祈り [songId=26178041] code=405
+343. 417. 最,最,最強!!!(H43) [songId=28707741] code=405
+344. 418. 吻别 [songId=5258676] code=405
+345. 419. 姜氏孤儿 [songId=4875331] code=405
+346. 420. 绝对是个梦 [songId=5256068] code=405
+347. 421. 菩提偈 [songId=542058452] code=405
+348. 422. Requiem For A Tower [songId=17625646] 
+349. 423. 浩瀚 [songId=29774166] code=405
+350. 424. ERENthe標 [songId=482633121] code=405
+351. 425. 镜湖 [songId=174540] code=405
+352. 426. Vicetone-黑人抬棺古风（litterzy remix） [songId=1442954062] code=405
+353. 427. 命 映画ﾊﾞｰｼﾞｮﾝ [songId=413312] code=405
+354. 428. 最美的期待 [songId=531295576] 
+355. 429. A Long Story [songId=1331217821] 
+356. 430. In the End [songId=1309896289] 
+357. 431. 把孤独当做晚餐 [songId=1379456709] code=405
+358. 432. 大鱼 [songId=413812448] 
+359. 433. 天命风流 [songId=29722029] code=405
+360. 434. エミヤ ~無元の剣製~ [songId=548145491] code=405
+361. 435. Friendships [songId=505449407] code=405
+362. 436. 当爱已成往事 [songId=32707746] code=405
+363. 437. 有情燕 [songId=28785473] 
+364. 438. Exodus [songId=26115977] code=405
+365. 439. Sold Out [songId=31010566] 
+366. 440. 仙境 [songId=31544858] code=405
+367. 441. 緋色月下、狂咲ノ絶　-1st Anniversary Remix- [songId=722013] 
+368. 442. 你 [songId=151142] code=405
+369. 443. 如果云知道 [songId=5242860] code=405
+370. 444. Apollo's Triumph (Paul Dinletir Remix) [songId=29809102] code=405
+371. 445. 牵绊 [songId=27927744] code=405
+372. 446. 琵琶吟 [songId=332744] 
+373. 447. ひかり [songId=22685031] code=405
+374. 448. 我愿意平凡的陪在你身旁 (DjYaha版) [songId=1376093547] 
+375. 449. 不了了之 [songId=208101] 
+376. 450. Follow Your Dream [songId=27574655] 
+377. 451. 戸惑い [songId=571220] 
+378. 452. Best of my Love [songId=26590305] code=405
+379. 453. 山有木兮-橙光《人鱼传说之长生烛》主题曲 [songId=425100599] code=405
+380. 454. 沧海龙吟 [songId=26344014] 
+381. 455. 榣山遗韵 [songId=26344109] code=405
+382. 456. Breath and Life [songId=3935139] code=405
+383. 457. 电台情歌 [songId=543656117] code=405
+384. 458. 芒种 [songId=1369798757] 
+385. 459. 江湖笑 [songId=169802] 
+386. 460. 惊蛰 [songId=862099159] code=405
+387. 461. And We Run [songId=28211184] 
+388. 462. 金子陵 [songId=376994] code=405
+389. 463. 未见青山老 [songId=453175619] code=405
+390. 464. Ya Not Ready [songId=28708949] code=405
+391. 465. 处处吻 [songId=5265763] 
+392. 466. 有没有一首歌会让你想起我 [songId=189895] code=405
+393. 467. Never Back Down [songId=31654453] 
+394. 468. 桃花岛 [songId=4875319] 
+395. 469. 月千一夜 [songId=22724784] code=405
+396. 471. 和平之月 [songId=31967080] code=405
+397. 472. Shadowfall [songId=27969824] 
+398. 473. 둘이서 [songId=5341446] code=405
+399. 474. 지금 이대로 [songId=409060166] code=405
+400. 475. ゼツのテーマ [songId=423997779] 
+401. 476. 左手指月 [songId=536096151] code=405
+402. 477. 黒点 [songId=530456] 
+403. 478. 凝雨泪 [songId=537315234] code=405
+404. 479. MY ALL [songId=1391211574] code=405
+405. 480. Barricades [songId=1416229766] code=405
+406. 481. Strings Over the Mountain [songId=508093905] code=405
+407. 482. Telephone [songId=1858866251] code=405
+408. 483. 想起 [songId=39443121] code=405
+409. 484. 别怕我伤心 [songId=187280] code=405
+410. 485. 囚鸟 [songId=406347147] code=405
+411. 486. 不值得 [songId=366577] code=405
+412. 487. 流年 [songId=299513] code=405
+413. 488. Grinder [songId=468595350] code=405
+414. 489. 都是你的错 [songId=213326] 
+415. 490. 天帷禁地 [songId=1339720118] 
+416. 491. 女神変生 [songId=26388429] 
+417. 492. 表白 [songId=307081] code=405
+418. 493. Love Love Love [songId=209923] 
+419. 494. 不得了 [songId=473440495] code=405
+420. 495. 御殿 [songId=4882079] 
+421. 496. 王子 [songId=191666] 
+422. 497. Brave Soul [songId=22815041] code=405
+423. 498. 我可以 [songId=400579241] 
+424. 499. 海浪 [songId=5243635] 
+425. 500. 七剑战歌 [songId=29999478] 
+426. 501. 游戯 [songId=4981052] 
+427. 502. 闇の魔術師 [songId=28191241] 
+428. 503. 万物生(国) [songId=286765] code=405
+429. 504. 杀破狼 [songId=4875307] 
+430. 505. 分飞 [songId=308208] code=405
+431. 507. 黯然销魂 [songId=30569561] code=405
+432. 508. 相思 [songId=145986] code=405
+433. 509. 关不上的窗 [songId=406730432] code=405
+434. 510. 寂寞才说爱 [songId=125835] 
+435. 511. 新窝 [songId=354549] code=405
+436. 512. 谢谢你的温柔 [songId=375090] code=405
+437. 513. 只对你有感觉 [songId=354620] code=405
+438. 514. Man At Arms [songId=5137291] code=405
+439. 515. Para Para Sakura [songId=4878054] 
+440. 516. 独角戏 [songId=307525] code=405
+441. 517. Time after time - 花舞う街で - [songId=4988131] code=405
+442. 518. Aeterna [songId=32364143] 
+443. 519. 三日月だけ [songId=645988] code=405
+444. 520. 流れる雲よりもはやく (カラオケ) [songId=610820] code=405
+445. 521. shelly佳 - 雨季 - 伴奏 [songId=30891327] 
+446. 522. Narcissus [songId=559180] code=405
+447. 523. farewell [songId=22816399] 
+448. 524. Last Spring [songId=559172] code=405
+449. 525. 臆病者 [songId=471902] 
+450. 526. キラキラダイアモンド [songId=4927466] 
+451. 527. Soviet March [songId=5042951] code=405
+452. 528. 长是人千里 [songId=431794323] code=405
+453. 529. 知心爱人 [songId=84054] code=405
+454. 530. Dreams [songId=21274643] code=405
+455. 531. Last Reunion [songId=402073046] 
+456. 532. 懂你 [songId=135768] 
+457. 533. 霸王别姬 [songId=5280110] code=405
+458. 534. 传奇 [songId=1881940338] code=405
+459. 535. 舌战群儒 [songId=33789458] code=405
+460. 536. 千里走单骑 [songId=33789452] code=405
+461. 537. 貂蝉 [songId=33789447] code=405
+462. 538. 戏语花（Cover 《寒江雪》郑源） [songId=427609090] code=405
+463. 539. Superman [songId=5244288] code=405
+464. 540. 精舞门 [songId=1881941305] code=405
+465. 541. 桃花诺 [songId=480579393] code=405
+466. 542. 尘埃 [songId=33337258] 
+467. 543. Best Friend [songId=27678752] code=405
+468. 544. 轮回 [songId=416384874] code=405
+469. 545. 一眼万年 [songId=375356] code=405
+470. 546. 青花 [songId=189602] code=405
+471. 547. 踏浪 [songId=308212] 
+472. 548. Overlap [songId=4981014] code=405
+473. 549. 小乌龟 [songId=4874558] 
+474. 550. Burning [songId=472906196] code=405
+475. 551. 女儿身 [songId=479102438] 
+476. 552. 少女進化! [songId=27785067] code=405
+477. 553. Heart Linked [songId=423058298] code=405
+478. 554. Lonely [songId=21274655] code=405
+479. 555. 偏爱 [songId=86369] code=405
+480. 557. Far Away From Home [songId=4083399] code=405
+481. 558. 执迷 [songId=29792788] code=405
+482. 559. 反撃の時 [songId=405599366] code=405
+483. 561. Archer [songId=31108205] 
+484. 562. Layers [songId=484056480] 
+485. 563. 蓝色土耳其 [songId=189586] code=405
+486. 564. Human Legacy [songId=29823209] 
+487. 565. 风筝误 [songId=32785674] code=405
+488. 566. 天天看到你 [songId=406346220] 
+489. 567. 芙蓉雨 [songId=29032001] code=405
+490. 568. 山鬼 [songId=445198021] 
+491. 569. gravityWall [songId=482999012] code=405
+492. 570. 爱一个人好难 [songId=147258] code=405
+493. 571. 无愧于心 [songId=4878241] code=405
+494. 572. 祝福 [songId=5268243] code=405
+495. 573. 你是风儿我是沙(Kala) [songId=4878621] code=405
+496. 574. 飘雪 [songId=5257448] 
+497. 576. Flight Of The Silverbird [songId=31654464] code=405
+498. 577. 沙漠寂寞 [songId=25640598] 
+499. 578. 眉间雪 [songId=29572090] code=405
+500. 579. Something Just Like This [songId=470547653] code=405
+501. 580. Time (Official) [songId=33035611] 
+502. 581. 红昭愿 [songId=452986458] code=405
+503. 582. Legends Never Die [songId=506196018] code=405
+504. 583. 下辈子如果我还记得你 [songId=276220] 
+505. 584. 信仰 [songId=25643328] code=405
+506. 585. 相思引 [songId=224327] 
+507. 586. 一言难尽 [songId=190227] 
+508. 587. 风吹草动，风云飞扬 [songId=201871] code=405
+509. 588. 千千阙歌 [songId=28819047] code=405
+510. 589. 红梅白雪知 [songId=413829629] 
+511. 590. 离别 [songId=60280] code=405
+512. 591. 他一定很爱你 [songId=60263] 
+513. 592. 我的心太乱 [songId=200436] 
+514. 593. 用心良苦 [songId=406347150] code=405
+515. 594. 月亮惹的祸 [songId=543798364] code=405
+516. 595. 雨一直下 [songId=5243638] code=405
+517. 596. 全日爱 [songId=112291] code=405
+518. 597. 超越时空的思念(樱散零乱) 二胡版 [songId=28406513] code=405
+519. 598. sh0ut [songId=507114414] 
+520. 599. And We Run [songId=37722515] 
+521. 600. 清明上河图 [songId=446945324] 
+522. 601. Serenata Immortale [songId=1461836] 
+523. 602. 烟笼长安 [songId=28660513] code=405
+524. 603. 千秋此意 [songId=413829631] code=405
+525. 604. Unlimited Blade Works [songId=31108216] 
+526. 605. 归途 - 锁麟囊延伸曲(薛晓/晓薛) [songId=427606738] code=405
+527. 606. 笑傲江湖路（中国诗词大会配乐） [songId=441622203] 
+528. 607. Soldier [songId=27969800] code=405
+529. 608. 梦里花 [songId=327090] 
+530. 609. 画心 [songId=27678271] code=405
+531. 610. 難攻不落 [songId=530447] 
+532. 611. 君卿辞 [songId=28427657] code=405
+533. 612. 踏过樱华第几桥 [songId=29437822] code=405
+534. 613. Heist [songId=35331692] code=405
+535. 614. エミヤ_UBW Extended [songId=35270640] 
+536. 615. 海棠 [songId=427017602] code=405
+537. 616. 流云 [songId=427609546] code=405
+538. 617. 苍山 [songId=174517] code=405
+539. 618. 望月之城 [songId=129237] 
+540. 619. 辉月 [songId=427609548] code=405
+541. 620. 美丽的神话Ⅰ [songId=4875127] 
+542. 621. 无伤曲 [songId=169092] code=405
+543. 622. 荒州梦 [songId=29498435] code=405
+544. 623. 老街 [songId=133998] code=405
+545. 624. 荀彧(纯音乐版) [songId=30039520] code=405
+546. 625. Higher [songId=17427620] 
+547. 626. LAST STARDUST [songId=476081885] code=405
+548. 627. 想太多 [songId=109196] 
+549. 628. 雨蝶 [songId=258498] code=405
+550. 629. 紅炎 [songId=530412] code=405
+551. 630. 片翼の鳥 [songId=642869] code=405
+552. 631. 半壶纱 [songId=28793140] code=405
+553. 632. EXEC_COSMOFLIPS/. [songId=26377651] code=405
+554. 633. 惊蛰·归云 [songId=31062292] code=405
+555. 634. 桃源恋歌 [songId=547969272] 
+556. 635. 找一个字代替 [songId=28306859] code=405
+557. 636. Bad Apple!! [songId=22645196] code=405
+558. 637. 回レ！雪月花 [songId=28018274] code=405
+559. 638. 情醉 [songId=224338] 
+560. 639. 仙剑问情声唱版 [songId=4873827] 
+561. 640. 千年缘 [songId=314315] 
+562. 641. 魅影醉 [songId=29095517] code=405
+563. 642. 红颜旧 [songId=32924132] code=405
+564. 643. 孤独 [songId=784555] code=405
+565. 644. 三寸天堂 [songId=101824] 
+566. 645. 爱上张无忌 [songId=166321] code=405
+567. 646. 遇萤 [songId=32548266] 
+568. 647. 苏幕遮 [songId=25640582] 
+569. 648. 城里的月光 [songId=306719] 
+570. 649. 牵手 [songId=32364072] code=405
+571. 650. 窗外 [songId=126443] code=405
+572. 651. 海阔天空 [songId=400162138] code=405
+573. 652. 太早 [songId=126946] code=405
+574. 653. 蓝眼泪 [songId=69840] code=405
+575. 654. Rise - Epic Music [songId=28283137] code=405
+576. 655. 阁楼 [songId=213791] code=405
+577. 656. 琵琶语 古筝版 [songId=426341501] code=405
+578. 657. 锦里 [songId=441617611] code=405
+579. 658. 东流 [songId=462688462] code=405
+580. 659. 瞳染 (TV Size) [songId=490054996] code=405
+581. 660. 下沙 [songId=176488] 
+582. 661. 青花瓷 [songId=1881924477] code=405
+583. 662. Liberators [songId=41630480] code=405
+584. 663. 花は桜 君は美し [songId=718840] code=405
+585. 664. Crawling [songId=4153772] code=405
+586. 665. Immortal [songId=2061739] code=405
+587. 666. 千纸鹤 [songId=151146] code=405
+588. 667. 风花雪月 [songId=32174251] code=405
+589. 668. 刚好遇见你 [songId=439915614] 
+590. 669. At The Edge [songId=448596416] code=405
+591. 670. 初音未来x乖离性百万亚瑟王「be yourself！」 [songId=473881653] 
+592. 671. 你瞒我瞒 [songId=25718007] 
+593. 672. 眉间雪 [songId=29567100] 
+594. 674. 幽幽海谷情 [songId=129236] 
+595. 675. 上心 [songId=26402069] 
+596. 676. 恋人心 [songId=28668855] 
+597. 677. 牵丝戏 [songId=30352891] 
+598. 678. Super Star (Live) [songId=407007054] 
+599. 679. Lydia [songId=1468115093] 
+600. 680. 相依为命 [songId=573968839] 
+601. 681. 爱在天地动摇时 [songId=28242036] 
+602. 682. アフロディーテ [songId=819664] 
+603. 683. 江上清风游 [songId=32743519] 
+604. 684. 心要让你听见 [songId=5250613] 
+605. 685. 我很快乐 [songId=255294] 
+606. 686. 别恐惧 [songId=101833] 
+607. 687. 临安初雨(纯音乐) [songId=29771289] 
+608. 688. Take Me Hand [songId=26092806] 
+609. 689. 类似爱情 [songId=26127556] 
+610. 690. 夜空中最亮的星 [songId=25706282] 
+611. 691. Somewhere I Belong [songId=28837227] 
+612. 692. 三国恋 [songId=150361] 
+613. 693. 小小 [songId=287231] 
+614. 694. 雪见—仙凡之旅 [songId=86381] 
+615. 695. 天下无双 [songId=169794] 
+616. 696. 逍遥游 [songId=166070] 
+617. 697. 恨爱交加 [songId=137473] 
+618. 698. 穿越 [songId=28378112] 
+619. 699. 转弯 [songId=156329] 
+620. 700. 断点 [songId=1494462202] 
+621. 701. Latin Girl [songId=1519121] 
+622. 702. 朋友 [songId=394637] 
+623. 703. 心中想的还是他 [songId=29562241] 
+624. 704. 谢谢你的爱 [songId=112584] 
+625. 706. Butterfly [songId=5220603] 
+626. 707. 织女 心丝(笛箫版) [songId=27646112] 
+627. 708. Ein Kleines Lied (Around the World) [songId=17075871] 
+628. 709. 不如跳舞 [songId=5261907] 
+629. 710. 眉飞色舞 [songId=329125] 
+630. 711. Dragonfly [songId=3417073] 
+631. 712. 永远永远 (原声版) [songId=4877753] 
+632. 713. 星语心愿 [songId=330670] 
+633. 714. 極楽浄土 [songId=1311758713] 
+634. 715. プラネタリウム [songId=22818749] 
+635. 716. 金魚花火 [songId=22818759] 
+636. 717. 爱的主打歌 [songId=543798387] 
+637. 718. 最熟悉的陌生人 [songId=406737870] 
+638. 720. touch Me! [songId=22790718] 
+639. 721. Tonight, I Feel Close To You [songId=287375] 
+640. 722. Windfall [songId=37653546] 
+641. 723. Horizon [songId=30064175] 
+642. 724. Intro [songId=4341314] 
+643. 725. Monody [songId=1881940413] 
+644. 726. 面具 [songId=28254361] 
+645. 727. Flash Funk [songId=400161903] 
+646. 728. 演员 [songId=32507038] 
+647. 729. Kissy, Kissy [songId=3417069] 
+648. 730. God is a Girl (Radio Edit) [songId=4083310] 
+649. 731. Walking In The Sun [songId=27890932] 
+650. 732. Yeah! [songId=21974794] 
+651. 733. 广岛之恋 [songId=277356] 
+652. 734. Epic Sax Guy [songId=28996670] 
+653. 735. 乱世巨星（电影《97古惑仔：战无不胜》插曲） [songId=4878122] 
+654. 736. Opening [songId=393674] 
+655. 737. Beautiful Lies [songId=24851086] 
+656. 738. Victory [songId=31654455] 
+657. 739. Vishnu [songId=17539358] 
+658. 740. Welcome to Planet Urf [songId=31311706] 
+659. 741. Into the Battlefield [songId=4880738] 
+660. 742. Go Time [songId=29717271] 
+661. 743. Battle of Rose [songId=471780] 
+662. 744. Ringtone (MetroGnome Remix) [songId=28665224] 
+663. 745. Luv Letter (Wisp X Remix) [songId=30780433] 
+664. 746. The Day You Went Away [songId=38392522] 
+665. 747. Bye Bye Bye [songId=29848197] 
+666. 748. Bye Bye Beautiful [songId=21312234] 
+667. 749. 星辰变 [songId=156084] 
+668. 750. ninelie [songId=409872504] 
+669. 751. Love Me Like You Do [songId=36308236] 
+670. 752. 오빤 딱 내 스타일 [songId=1817174791] 
+671. 753. Rags To Rings [songId=28949242] 
+672. 754. 快点告诉你 [songId=28409805] 
+673. 755. Flight [songId=27982828] 
+674. 756. 精忠报国 [songId=151311] 
+675. 757. バイバイ YESTERDAY [songId=1881924506] 
+676. 758. 夕山谣 [songId=405253647] 
+677. 759. 长歌行 [songId=35617509] 
+678. 760. Palace Memories [songId=816495] 
+679. 761. Lotus Eater (Tonton Remix) [songId=412911580] 
+680. 762. STYX HELIX [songId=413961906] 
+681. 763. 小幸运（Cover 田馥甄） [songId=41665696] 
+682. 764. ComeBack音 [songId=1367360743] 
+683. 765. Through My Blood [songId=413077048] 
+684. 766. 梦回还 [songId=405253631] 
+685. 767. いけないボーダーライン [songId=41629793] 

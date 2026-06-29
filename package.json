@@ -1,0 +1,9 @@
+{
+  "name": "ncmrobot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "NetEase Cloud Music cloud-to-playlist sync helpers",
+  "scripts": {
+    "sync:playlist": "node scripts/netease-cloud-playlist-sync.js"
+  }
+}

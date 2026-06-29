@@ -57,3 +57,22 @@ https://github.com/yoki123/ncmdump
 https://github.com/anonymous5l/ncmdump
 https://www.yanghuaxing.com/blog/107.html
 
+## NetEase playlist sync
+
+This repo also includes a reusable script for syncing one NetEase playlist into another by matching tracks from your NetEase cloud drive.
+
+1. Check `netease-sync.config.json`
+2. Confirm `apiModulePath` points to an existing local `neteasecloudmusicapi` module
+3. Run: `npm run sync:playlist`
+
+Default behavior:
+
+- read login cookie from `C:\Users\Administrator\AppData\Roaming\Mineradio\.cookie`
+- by default reuse `E:\github.com\Mineradio\node_modules\neteasecloudmusicapi`, so no extra npm download is required
+- read source playlist `371024084`
+- import into target playlist `18102697793`
+- reverse the add queue before import, so the final playlist order stays aligned with the source playlist
+- write reports into `reports/`
+- if `data/netease-liked-songs.txt` exists, use that migrated list as the canonical order source
+- before adding, always read the target playlist's current track IDs, so reruns skip already imported songs and avoid duplicate work
+
